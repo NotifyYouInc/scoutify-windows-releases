@@ -1,11 +1,11 @@
 {
-  "version": "1.6.12",
-  "notes": "See release notes at https://github.com/NotifyYouInc/scoutify-windows-releases/releases/tag/v1.6.12",
-  "pub_date": "2026-09-26T00:58:52Z",
+  "version": "1.6.13",
+  "notes": "See release notes at https://github.com/NotifyYouInc/scoutify-windows-releases/releases/tag/v1.6.13",
+  "pub_date": "2026-10-26T05:17:15Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWQ2SlROazhNa0NmNXFmeHhnUWF0T0pKTCtwNmRLUFZ5UGNNNG5kdXR0cjFvbmVVblhFM3Y3M243MVdlUU5RS1pab3A1RkFhOFh5NTI2ZEhUVTFPMkZodXFveHJiQVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzg0MzMyCWZpbGU6U2NvdXRpZnlfMS42LjEyX3g2NC1zZXR1cC5leGUKRklGNDNYNUcweDNPUlJEbEhzWjNzdURpaDFhSGZYQXp5dzdzNkVoRWVVY2tDT0NiOGJUN2Jvbk9Pc012eWZLUnprOWRXNjdOaVZEMzQwYWRaaEhQQ0E9PQo=",
-      "url": "https://github.com/NotifyYouInc/scoutify-windows-releases/releases/download/v1.6.12/Scoutify_1.6.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWQ2SlROazhNa0dGWEoxQ2JIS240dTkrbkFFOHFTMG52SklySng4M0xjUVUvcVJPbEtaMlBuTG44TVcvdVRXZ05PcjIxeFFRV3Y1WlNiNVlsdkhhaFg0RHFnNVlrSkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTkxODM0CWZpbGU6U2NvdXRpZnlfMS42LjEzX3g2NC1zZXR1cC5leGUKUlBIeVdSVWx1dHpqNnUwM2J4YlAzTUs5a1BUbm5LaDBRdjBpeWJ6RDkzT3dudngxQVNFNkN4UDBTTVIyR0wwVzhpS0E3Q3c0REVUTnMwVEs1dGhiQlE9PQo=",
+      "url": "https://github.com/NotifyYouInc/scoutify-windows-releases/releases/download/v1.6.13/Scoutify_1.6.13_x64-setup.exe"
     }
   }
 }
